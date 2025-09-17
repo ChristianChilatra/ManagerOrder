@@ -1,10 +1,9 @@
 # 📦 ManagerOrder
 
-## 📖 (SCALAR (OpenAPI) - http://[::]/scalar/v1)
-
 El proyecto se estructura desde su configuración inicial utilizando **métodos de extensión**, lo que aporta mayor **claridad y orden** en el código.  
-
 Se implementa una arquitectura **Vertical Slice**, donde los recursos se organizan y se centralizan por **características**. En este caso, el slice principal es **`Orders`**.
+
+📖 (SCALAR (OpenAPI) - http://[::]/scalar/v1)
 
 ---
 
