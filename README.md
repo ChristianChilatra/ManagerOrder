@@ -1,6 +1,6 @@
 # 📦 ManagerOrder
 
-###(SCALAR (OpenAPI) - http://[::]/scalar/v1)
+## 📖 (SCALAR (OpenAPI) - http://[::]/scalar/v1)
 
 El proyecto se estructura desde su configuración inicial utilizando **métodos de extensión**, lo que aporta mayor **claridad y orden** en el código.  
 
